@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi there 👋 I'm Sebastian, A.K.A Fletcher. 
+
+---
+
+##### I'm a Back End Software Developer, Bachelor's in Systems Student, enthusiastic reader and gamer.
+
+---
+
+🖥️ I'm currently working on
+- Creating a MERN Stack web application, trying to improve my Full Stack skills. 
+
+
+🌱 I’m currently learning
+- Node
+- React
+- MongoBD
+- Express
+- Go
+
+
 
 <!--
 **SebastianFletcher/SebastianFletcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
