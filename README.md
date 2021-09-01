@@ -1,9 +1,14 @@
-### Hi there 👋 I'm Sebastian, A.K.A Fletcher. 
+### Fletcher ❄. 
 
 ---
+#### Hello World 🌎, my name is Sebastian, A.K.A Fletcher. 
+I'm a Back End Software Developer 💻, Bachelor's in Systems Student 👨‍💻, enthusiastic reader 📚 and gamer 🕹.
+Apart from that, I enjoy swimming 🏊‍♂️.
 
-##### I'm a Back End Software Developer, Bachelor's in Systems Student, enthusiastic reader and gamer.
 
+
+
+<!-- 
 ---
 
 🖥️ I'm currently working on
@@ -17,9 +22,6 @@
 - Express
 - Go
 
-
-
-<!--
 **SebastianFletcher/SebastianFletcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
